@@ -7,3 +7,6 @@ My plans for the future are:
 - 🌐 Learning the bases of Web Development
 - 🖥️ Create my own Desktop Applications
 - ⚙️ Utilize technology to make a better world!
+
+## 🔧Tools and Languages 💻
+
