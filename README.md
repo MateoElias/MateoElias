@@ -10,4 +10,4 @@ My plans for the future are:
 
 ## 🔧Tools and Languages 💻
 
-[![My GitHub Stats:](https://github-readme-stats.vercel.app/api?username=MateoElias&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats:](https://github-readme-stats.vercel.app/api?username=MateoElias&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
