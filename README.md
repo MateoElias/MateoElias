@@ -8,7 +8,10 @@ My plans for the future are:
 - 🖥️ Create my own Desktop Applications
 - ⚙️ Utilize technology to make a better world!
 
-## 🔧Tools and Languages 💻
+## 🔧 Tools and Languages 💻
+
+
+## 💻 My GitHub Stats 📈
 
 <img align="left" alt="MateoElias's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MateoElias&show_icons=true&theme=radical" />
 
