@@ -10,8 +10,7 @@ My plans for the future are:
 
 ## 🔧Tools and Languages 💻
 
-<img align="left" alt="MateoElias's Github Stats" src = "https://github-readme-stats.vercel.aoo/api?username=MateoElias&show_icons=true&theme=radical&count_private=true" />
-
+<img align="left" alt="MateoElias's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MateoElias&show_icons=true&theme=radical" />
 
 <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoElias&langs_count=8&theme=radical" />
 
