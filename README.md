@@ -1,4 +1,4 @@
-### Hello! My name is Mateo Elias, I am a 10th grade student from Venezuela!
+### Hello! My name is Mateo Elias, I am a 11th grade student from Venezuela!
 
 ## My main goal is to become a Full-Stack Developer 💻 
 My plans for the future are:
