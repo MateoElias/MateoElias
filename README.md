@@ -22,16 +22,17 @@ My plans for the future are:
 
 <p align="center" >
   <img height=150 alt="Node.js" src = "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img height=150 alt="Git BASH" src = "https://gitforwindows.org/img/git_logo.png">
   <img height=150 alt="JavaScript" src = "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
   <img height=150 alt="Java" src = "https://qph.fs.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1">
   <img height=150 alt="C++" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 </p>
 
 ## 💻 My GitHub Stats 📈
-
-<img align="left" alt="MateoElias's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MateoElias&show_icons=true&theme=radical" />
-
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoElias&langs_count=8&theme=radical" />
+<p align="center" >
+  <img height=150 alt="MateoElias's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MateoElias&show_icons=true&theme=radical" />
+  <img height=150 alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoElias&langs_count=8&theme=radical" />
+</p>
 
 ##### Have any questions or wish to contact me? Message me through Discord!
 ###### Mateo Ch. マテオエリアス#0937
