@@ -32,7 +32,7 @@ My plans for the future are:
 <p align="center" >
   <img height=150 alt="MateoElias's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MateoElias&count_private=true&show_icons=true&theme=radical" />
   <img height=150 alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoElias&langs_count=8&theme=radical" />
-  <img height=150 alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MateoElias&theme=radical">
+  <img height=150 alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MateoElias&theme=dracula&row=2&column=3">
 </p>
 
 ##### Have any questions or wish to contact me? Message me through Discord!
