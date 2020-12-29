@@ -28,6 +28,24 @@ My plans for the future are:
   <img height=150 alt="C++" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 </p>
 
+## 🧰 My Best Projects so Far 💻
+
+<p align="center">                 
+<a href="https://github.com/MateoElias/Sauce-Bot">
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Sauce-Bot&show_owner=true&theme=radical"></a>
+ </a>
+<a href="https://github.com/MateoElias/Glacon-AIC">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Glacon-AIC&show_owner=true&theme=radical">
+ </a>
+<a href="https://github.com/MateoElias/Snake-Game">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Snake-Game&show_owner=true&theme=radical">
+ </a>
+ <a href="https://github.com/MateoElias/Project-Icaros">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Project-Icaros&show_owner=true&theme=radical">
+ </a>
+  </a>
+  </p>
+
 ## 💻 My GitHub Stats 📈
 <p align="center" >
   <img height=150 alt="MateoElias's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MateoElias&count_private=true&show_icons=true&theme=radical" />
