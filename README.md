@@ -13,8 +13,8 @@ My plans for the future are:
 ### Editors and IDEs
 
 <p align="center" >
-  <img height=150 alt="IntelliJ IDEA" src = "https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png">
-  <img height=150 alt="Eclipse for C++ Developers" src = "https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200">
+  <img height=150 alt="IntelliJ IDEA" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png">
+  <img height=150 alt="Eclipse for C++ Developers" src = "https://projects.eclipse.org/sites/default/files/cdt_logo_icon_0.png">
   <img height=150 alt="Visual Studio Code" src = "https://img.icons8.com/color/452/visual-studio-code-2019.png">
 </p>
 
