@@ -13,8 +13,7 @@ My plans for the future are:
 ### Editors and IDEs
 
 <p align="center" >
-  <img height=150 alt="IntelliJ IDEA" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png">
-  <img height=150 alt="Eclipse for C++ Developers" src = "https://projects.eclipse.org/sites/default/files/cdt_logo_icon_0.png">
+  <img height=150 alt="IntelliJ IDEA" src = "https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_CE_256_2Qe5uEl.pngg">
   <img height=150 alt="Visual Studio Code" src = "https://img.icons8.com/color/452/visual-studio-code-2019.png">
 </p>
 
@@ -31,19 +30,15 @@ My plans for the future are:
 ## 🧰 My Best Projects so Far 💻
 
 <p align="center">                 
-<a href="https://github.com/MateoElias/Sauce-Bot">
-  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Sauce-Bot&show_owner=true&theme=radical"></a>
- </a>
 <a href="https://github.com/MateoElias/Glacon-AIC">
    <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Glacon-AIC&show_owner=true&theme=radical">
  </a>
 <a href="https://github.com/MateoElias/Snake-Game">
    <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Snake-Game&show_owner=true&theme=radical">
  </a>
- <a href="https://github.com/MateoElias/Project-Icaros">
-   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=Project-Icaros&show_owner=true&theme=radical">
+ <a href="https://github.com/MateoElias/bot-structure">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=MateoElias&repo=bot-structure&show_owner=true&theme=radical">
  </a>
-  </a>
   </p>
 
 ## 💻 My GitHub Stats 📈
